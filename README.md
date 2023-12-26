@@ -2,7 +2,7 @@
 
 - ⚡ My name is Jose, I'm a fan of Vim, C++ and Arch Linux.
 - 🔭 I’m currently working on [Productivity Directory](https://productivity.directory)
-- 📫 How to reach me: [Twitter](https://x.com/stan8086), [ProductHunt](https://producthunt.com/@stan8086), [Altern](https://altern.ai/@stan8086)
+- 📫 How to reach me: [Twitter](https://x.com/xtan8086), [ProductHunt](https://producthunt.com/@stan8086), [Altern](https://altern.ai/@stan)
 
 <!--
 **stan8086/stan8086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
