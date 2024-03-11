@@ -51,8 +51,8 @@ This list is a collection of applications, tools, and resources for blocking dis
 
 ## Articles and Guides
 
-- [How to Block Distracting Websites: 3 Methods to Increase Productivity](https://example.com)
-- [10 Tips for Reducing Distractions and Increasing Focus](https://example.com)
+- [Top 5 Distraction Blocker Apps for Mac](https://blog.productivity.directory/top-5-distraction-blocker-apps-for-mac-a00614bc6268)
+- [Top 6 Distraction Blocker Apps for Android](https://blog.productivity.directory/top-6-distraction-blocker-apps-for-android-5a838618e155)
 
 ## Research Papers
 
