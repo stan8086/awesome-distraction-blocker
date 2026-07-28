@@ -13,6 +13,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
   - [Linux](#linux)
   - [Browser Extensions](#browser-extensions)
   - [Mobile Apps](#mobile-apps)
+    - [iOS](#ios)
+    - [Android](#android)
+    - [Cross-platform](#cross-platform)
 - [Articles and Guides](#articles-and-guides)
 - [Research Papers](#research-papers)
 - [Communities](#communities)
@@ -45,6 +48,22 @@ This list is a collection of applications, tools, and resources for blocking dis
 - [Freedom](https://freedom.to/) - [Review](https://productivity.directory/freedom) - Block distractions on all of your devices.
 
 ### Mobile Apps
+
+#### iOS
+
+- [Jomo](https://apps.apple.com/us/app/jomo-screen-time-blocker/id1609960918) - Scheduled blocking sessions with per-app rules, built on Apple's Screen Time framework.
+- [one sec](https://one-sec.app/) - Inserts a short breathing pause before a chosen app opens, targeting the reflex rather than the total time.
+- [Screen Time](https://support.apple.com/en-us/HT208982) - Apple's own free app limits, Downtime and content restrictions, built into iOS. Worth configuring before installing anything else.
+- [ScreenZen](https://apps.apple.com/us/app/screenzen-screen-time-control/id1541027222) - Free intention prompts and friction before opening chosen apps.
+- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - Free blocker aimed at adults blocking themselves rather than parental monitoring. Runs entirely on-device with no account or server, and tracks a daily streak. *(Disclosure: I am the developer.)*
+
+#### Android
+
+- [AppBlock](https://play.google.com/store/apps/details?id=cz.mobilesoft.appblock) - Blocks apps and sites on a schedule, with a strict mode that resists disabling.
+- [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing) - Google's built-in app timers, Focus mode and Bedtime mode.
+- [Stay Focused](https://play.google.com/store/apps/details?id=com.stayfocused) - Per-app usage limits, launch-count limits and blocked time windows.
+
+#### Cross-platform
 
 - [Forest](https://www.forestapp.cc/) - [Review](https://productivity.directory/forest) - Stay focused, be present, and turn your focused moments into a lovely forest.
 - [Offtime](http://offtime.co/) - Disconnect from smartphone overuse.
