@@ -48,6 +48,7 @@ This list is a collection of applications, tools, and resources for blocking dis
 
 - [Forest](https://www.forestapp.cc/) - [Review](https://productivity.directory/forest) - Stay focused, be present, and turn your focused moments into a lovely forest.
 - [Offtime](http://offtime.co/) - Disconnect from smartphone overuse.
+- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - On-device iPhone screen-time blocker for adults, with scheduled blocks, loophole-resistant website blocking, and no account or cloud.
 
 ## Articles and Guides
 
