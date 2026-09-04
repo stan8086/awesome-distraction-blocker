@@ -33,6 +33,7 @@ This list is a collection of applications, tools, and resources for blocking dis
 ### MacOS
 
 - [SelfControl](https://selfcontrolapp.com/) - [Review](https://productivity.directory/selfcontrol) - A free and open-source application for Mac OS X that lets you block your own access to distracting websites.
+- [Focuh](https://www.focuh.com) - Free ADHD Mac todo list and week planner with a focus timer and system-wide website/app blocking.
 - [HeyFocus](https://heyfocus.com/) - [Review](https://productivity.directory/heyfocus) - Block websites and applications to improve productivity.
 
 ### Linux
