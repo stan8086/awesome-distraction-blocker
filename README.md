@@ -48,6 +48,7 @@ This list is a collection of applications, tools, and resources for blocking dis
 
 - [Forest](https://www.forestapp.cc/) - [Review](https://productivity.directory/forest) - Stay focused, be present, and turn your focused moments into a lovely forest.
 - [Offtime](http://offtime.co/) - Disconnect from smartphone overuse.
+- [Ripple](https://ripplefocus.github.io/en/) - Free Android blocker with a 15-minute cooldown before any rule can be loosened, in-app blocking of YouTube Shorts, Instagram Reels and WeChat Channels, and uninstall protection set up through on-device wireless debugging without root or a PC.
 
 ## Articles and Guides
 
