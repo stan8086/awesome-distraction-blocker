@@ -44,6 +44,8 @@ This list is a collection of applications, tools, and resources for blocking dis
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) - [Review](https://productivity.directory/stayfocusd) - Increase your productivity by limiting the amount of time spent on time-wasting websites.
 - [Freedom](https://freedom.to/) - [Review](https://productivity.directory/freedom) - Block distractions on all of your devices.
 
+- - [Onus](https://chromewebstore.google.com/detail/nneinhnhaidkhiffghefnieojojbhihn) - Seal distracting sites and earn time on them by working: 25 minutes on work sites buys 10 minutes on sealed ones. Chrome and Edge.
+
 ### Mobile Apps
 
 - [Forest](https://www.forestapp.cc/) - [Review](https://productivity.directory/forest) - Stay focused, be present, and turn your focused moments into a lovely forest.
