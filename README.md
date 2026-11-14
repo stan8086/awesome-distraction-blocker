@@ -43,6 +43,7 @@ This list is a collection of applications, tools, and resources for blocking dis
 
 - [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) - [Review](https://productivity.directory/stayfocusd) - Increase your productivity by limiting the amount of time spent on time-wasting websites.
 - [Freedom](https://freedom.to/) - [Review](https://productivity.directory/freedom) - Block distractions on all of your devices.
+- [Errand for YouTube](https://somestay07.github.io/errand-for-youtube/) - Free, open-source extension that hides YouTube Shorts, the home feed and recommendations, so watching one video doesn't turn into an evening.
 
 ### Mobile Apps
 
