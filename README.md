@@ -34,6 +34,7 @@ This list is a collection of applications, tools, and resources for blocking dis
 
 - [SelfControl](https://selfcontrolapp.com/) - [Review](https://productivity.directory/selfcontrol) - A free and open-source application for Mac OS X that lets you block your own access to distracting websites.
 - [HeyFocus](https://heyfocus.com/) - [Review](https://productivity.directory/heyfocus) - Block websites and applications to improve productivity.
+- [Vow](https://vow.byarnav.com/) - System-level offline lock for macOS that enforces deep work by disabling internet on a timer with zero instant cancel.
 
 ### Linux
 
