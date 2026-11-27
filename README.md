@@ -34,6 +34,7 @@ This list is a collection of applications, tools, and resources for blocking dis
 
 - [SelfControl](https://selfcontrolapp.com/) - [Review](https://productivity.directory/selfcontrol) - A free and open-source application for Mac OS X that lets you block your own access to distracting websites.
 - [HeyFocus](https://heyfocus.com/) - [Review](https://productivity.directory/heyfocus) - Block websites and applications to improve productivity.
+- [Seawall](https://seawall.work/?utm_source=awesome-distraction-blocker&utm_medium=listing) - A macOS menu bar blocker that locks distracting sites and apps until a set time; leaving early takes a wait. Source is GPL-3.0.
 
 ### Linux
 
